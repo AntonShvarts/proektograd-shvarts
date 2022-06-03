@@ -1,0 +1,26 @@
+h1{
+    color:rgb(56, 171, 17);
+    font-size:45px;
+}
+img{
+    width:500px;
+}
+body{
+    background-size:cover
+}
+a{
+    font-size:25px
+}
+p{
+    color:rgb(58, 65, 58); font-size:30px;
+}
+
+.lager{
+    background: url('/mak.png');
+}
+.uroki1{
+    width: 1000px;
+}
+.uroki2{
+width: 550px;
+}
